@@ -19,4 +19,4 @@ We're going to use our compiled CSS to style the `index.html` in the root of thi
    - `index.html` changes
    - `package.json` changes
    - `package-lock.json` (new file)
-1. Push
+1. Push 
