@@ -1151,3 +1151,24 @@ $print-body-min-width:              map-get($grid-breakpoints, "lg") !default;
 // Padding
 
 $padding-set:        1rem !default;
+
+// Background
+
+$background-img : url("../app-sports/images/logo_sports_colour.svg") !default;
+$background-img-a : url('../app-sports/images/google_play.svg') !default;
+
+$background-img-g : url('../app-sports/images/apple_store.svg') !default;
+
+// Background width and height
+
+$app-log-width :  5rem;
+$app-apple-width:       5rem;
+$app-google-width:     5rem;
+$app-log-height :  5rem;
+$app-apple-height:       5rem;
+$app-google-height:     5rem;
+
+// Background-color
+
+$background-color-head:    #F4F6F9 !default;   
+

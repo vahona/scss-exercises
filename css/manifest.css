@@ -4852,3 +4852,17 @@ a.text-red:hover, a.text-red:focus {
 
 .panels {
   padding: 1rem; }
+
+.logo_app {
+  background-image: url("../app-sports/images/logo_sports_colour.svg"); }
+
+.bd-image-apple {
+  background-image: url("../app-sports/images/google_play.svg");
+  width: 5rem;
+  height: 5rem; }
+
+.bg-image-google {
+  background-image: url("../app-sports/images/apple_store.svg"); }
+
+header {
+  background-color: #F4F6F9; }
