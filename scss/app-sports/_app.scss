@@ -1,16 +1,32 @@
 .logo_app {
   background-image: $background-img;
+    width: $app-log-width ;
+  height: $app-log-height;
+  background-repeat:  $background-repeat;
 }
 
-.bd-image-apple {
+.bg-image-apple {
   background-image: $background-img-a;
   width: $app-log-width ;
   height: $app-log-height;
+  background-repeat:  $background-repeat;
 }
 
 .bg-image-google {
   background-image: $background-img-g;
+  width: $app-log-width ;
+  height: $app-log-height;
+  background-repeat: $background-repeat;
+  
 }
+
+a {
+  padding: $padding-a;
+  text-indent: $text-indent;
+}
+
+
+
 
 header {
   background-color: $background-color-head;
